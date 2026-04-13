@@ -9,10 +9,10 @@ export function Footer() {
           {/* Brand */}
           <div className="col-span-1 md:col-span-1">
             <Link href="/" className="flex items-center gap-2 mb-4">
-              <div className="w-8 h-8 bg-[#F97316] rounded-md flex items-center justify-center">
+              {/* <div className="w-8 h-8  rounded-md flex items-center justify-center">
                 <BookOpen size={16} className="text-white" />
-              </div>
-              <span className="font-serif font-bold text-xl text-[#111827]">Chaptr</span>
+              </div> */}
+              <span className="font-sans text-[#F97316] font-bold text-xl ">Chaptr</span>
             </Link>
             <p className="text-sm text-[#6B7280] leading-relaxed mb-4">
               Built for African writers. Where Nigerian stories earn what they deserve.

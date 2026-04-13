@@ -26,9 +26,8 @@ const config: Config = {
         },
       },
       fontFamily: {
-        sans: ["var(--font-dm-sans)", "sans-serif"],
-        serif: ["var(--font-playfair)", "serif"],
-      },
+      sans: ["var(--font-sans)"],
+    },
       borderRadius: {
         sm: "6px",
         md: "10px",
